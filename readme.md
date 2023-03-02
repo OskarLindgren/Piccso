@@ -1,7 +1,7 @@
 # Piccso
 
 #### Piccso was made by
-Love, Code & Coffee by @OskarLindgren
+Love, Code & Coffee by [@OskarLindgren](https://github.com/OskarLindgren "Me! :)")
 
 ## Star This Repository If You Liked It!
 
@@ -17,4 +17,4 @@ Love, Code & Coffee by @OskarLindgren
 > ![alt text](https://ps.w.org/easy-under-construction/assets/icon-256x256.png "A Hello Wolrd Program")
 
 ---
-***HUGE*** *thank you to* @davidcallanan *for his excellent tutorial series on [YouTube](https://www.youtube.com/playlist?list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD)*
+***HUGE*** *thank you to* [@davidcallanan](https://github.com/davidcallanan "@davidcallanan") *for his excellent tutorial series on [YouTube](https://www.youtube.com/playlist?list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD "YouTube Playlist")*
