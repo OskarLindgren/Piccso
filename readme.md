@@ -7,9 +7,8 @@ Love, Code & Coffee by *@OskarLindgren*
 
 ---
 
-# ---
 # 🚧 THIS PROJECT IS STILL UNDER CONSTRUCTION 🚧
-# ---
+
 
 ## Example Code:
 
@@ -17,5 +16,5 @@ Love, Code & Coffee by *@OskarLindgren*
 
 > ![alt text](https://ps.w.org/easy-under-construction/assets/icon-256x256.png "A Hello Wolrd Program")
 
--
+---
 ***HUGE*** *thank you to @davidcallanan for his excellent tutorial series on [YouTube](https://www.youtube.com/playlist?list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD)*
